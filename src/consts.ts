@@ -10,5 +10,5 @@ export const GITHUB_CONFIG = {
   OWNER: 'lenny',
   REPO: '2025-blog-public',
   BRANCH: 'main',
-  APP_ID: '2322874'
+  APP_ID: '2323349'
 } as const
